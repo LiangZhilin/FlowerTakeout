@@ -81,7 +81,7 @@
 			//输入正确时  
 			if(data=="success"){
 			layer.alert("输入正确", {icon: 6});
-			var url = "<%=path%>/stumanage.action";
+			var url = "<%=path%>/demo.jsp";
 			window.location.href=url;
 			}else{
 			   layer.alert("用户名/密码输入错误", {icon: 6});

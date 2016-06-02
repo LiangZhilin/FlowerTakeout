@@ -12,7 +12,8 @@
 <meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
 <meta http-equiv="description" content="This is my page">
 
-
+<link href="<%=path%>/bootstrap/css/bootstrap.min.css" rel="stylesheet"
+	type="text/css" />
 <script type="text/javascript" src="js/jquery-2.0.0.min.js"></script>
 <script type="text/javascript"
 	src="<%=path%>/chajian/tree/js/jjs_jquery-1.10.2.min.js"></script>
