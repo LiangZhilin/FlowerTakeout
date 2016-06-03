@@ -191,7 +191,6 @@
 			</div>
 
 			<div class="form-actions">
-
 				<label class="checkbox">
 
 				<input type="checkbox" name="remember" value="1"/> 记住密码
